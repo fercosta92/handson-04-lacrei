@@ -1,0 +1,14 @@
+.cont {
+    height: 100vh;
+    background-image: url('../../assets/images/bkg-left.png');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.img-desk{
+    width: 500px;
+    height: 350px;
+    margin-top: 250px;
+    margin-left: 60px;
+    position: fixed;
+}
