@@ -1,7 +1,8 @@
 import { BrowserRouter, Route, Routes} from "react-router-dom";
 import Home from "./pages/Home";
-import Profile from "./pages/FeedbackSucess";
 import Registration from "./pages/Registration";
+import RegistrationFail from "./pages/RegistrationFail";
+import RegistrationSucess from "./pages/RegistrationSucess";
 
   
 const MyRoutes: React.FC = () => {
@@ -9,8 +10,9 @@ const MyRoutes: React.FC = () => {
     <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/profile" element={<Profile />} />
+          <Route path="/Registrationfail" element={<RegistrationFail />} />
           <Route path="/Registration" element={<Registration />} />
+          <Route path="/Registrationsucess" element={<RegistrationSucess />} />
         </Routes>
     </BrowserRouter>
     );

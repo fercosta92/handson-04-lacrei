@@ -1,0 +1,15 @@
+.container-registration {
+    height: 100vh;
+    background-image: url('../../assets/images/bkg-left.png');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.img-desk-registration{
+    width: 500px;
+    height: 350px;
+    margin-top: 230px;
+
+}
+
+
