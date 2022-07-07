@@ -1,0 +1,26 @@
+.Ops{
+    padding-top: 141px;
+    padding-left: 55px;
+}
+
+.Ops img{
+    padding-left: 152px;
+    padding-bottom: 41px;
+    align-items: center;
+}
+
+.Ops h2{
+    font-family: 'Roboto';
+    color: #2D2D2D;
+    font-size: 24px;
+    font-weight: 700;
+    width: 628px;    
+}
+
+.Ops p{
+    font-family: 'Roboto';
+    width: 593px;
+    padding-top: 16px;
+    font-size: 24px;
+    font-weight: 400; 
+}

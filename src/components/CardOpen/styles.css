@@ -1,0 +1,44 @@
+.Entre{
+
+  align-items: center;
+}
+
+h1{
+  font-size: 40px;
+  width: 712px;
+  height: 80px;
+  font-family: 'Roboto';
+  text-align: center;
+  color: #FFFFFF; 
+}
+
+p {
+  text-align: center;
+  font-family: 'Roboto';
+  padding-top: 54px;
+  font-weight: 400;
+  font-size: 24px;
+  padding-bottom: 32px;
+  padding-left: 93px;
+  width: 669px;
+  color: #FFFFFF;
+   
+}
+
+.bnt{
+  margin-left: 294px;
+  width: 127px;
+  height: 48px;
+  font-size: 16px;
+  color: #220F1A;    
+}
+
+
+
+
+
+
+
+
+
+
