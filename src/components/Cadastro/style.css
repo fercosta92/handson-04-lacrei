@@ -1,0 +1,108 @@
+        
+
+              .criar-conta{
+                width: 500px;
+                margin-right: 0 !important;
+               ;
+              }
+            
+            .title-register{
+              font-size: 32px;
+              padding-bottom: 20px;
+              font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+              padding-top: 40px;
+              color: black;
+              text-align: left;
+              width: 300px;
+              padding-bottom: 60px;
+            }
+
+            .color-register {
+              color: red;
+            }
+
+            .form-register {
+              width: 498px;
+              height: 40px;
+              border: 2px solid #CFCFCF;
+              background: #EEEEEE;
+              border-radius: 8px;
+              margin: 10px 0px 10px 0px;
+            }
+
+            .form-register-select {
+              width: 498px;
+              height: 40px;
+              background: white;
+              border: 2px solid #CFCFCF;
+              border-radius: 8px;
+              margin: 10px 0px 10px 0px;
+
+            }
+
+            .form-register-inp {
+              width: 200px;
+              height: 40px;
+              background: #EEEEEE;
+              border: 2px solid #CFCFCF;
+              border-radius: 8px;
+              margin: 10px 0px 10px 0px;
+            }
+
+            .wrapper-register {
+              width: 500px;
+              display: flex;
+              margin: 10px 0px 10px 0px;
+            }
+
+            .wrapper-register-inp {
+              width: 300px;
+
+            }
+
+            .term-register {
+              width: 500px;
+              display: flex;
+              justify-content: space-between;
+              flex-wrap: wrap;
+            }
+
+            .term-register-inp {
+              border: 1px solid green;
+              width: 20px;
+            }
+
+            .btn-register {
+              width: 100px;
+              padding: 10px;
+              margin-left: 200px;
+              text-align: center;
+              border: 1px solid #CFCFCF;
+              border-radius: 6px;
+
+            }
+
+            /* @media only screen and (max-width: 600px) {
+
+              .formStyle1,
+              .formStyle,
+              .formStyle2 {
+                width: 380px;
+              }
+
+              .divForm1,
+              .divForm2 {
+                width: 680px;
+                display: block;
+                flex-wrap: wrap;
+              }
+
+              .termos {
+                width: 380px;
+                margin: 0 0;
+              }
+
+              .botao {
+                margin-left: 160px;
+              }
+            } */
