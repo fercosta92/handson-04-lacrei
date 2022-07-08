@@ -12,13 +12,13 @@ const MyRoutes: React.FC = () => {
  return (
     <BrowserRouter>
         <Routes>
-          <Route path="/Hands-on-04-Lacrei-/" element={<Home />} />
-          {/* <Route path="/Hands-on-04-Lacrei-/profile" element={<Profile />} />    */}
-          <Route path="/Hands-on-04-Lacrei-/Login" element={<Login />} />
-          <Route path="/Hands-on-04-Lacrei-/registrationfail" element={<RegistrationFail />} />
-          <Route path="/Hands-on-04-Lacrei-/registration" element={<Registration />} />
-          <Route path="/Hands-on-04-Lacrei-/registrationsucess" element={<RegistrationSucess />} />
-          <Route path="/Hands-on-04-Lacrei-/waitlist" element={<ListaEspera />} />
+          <Route path="/" element={<Home />} />
+          {/* <Route path="/profile" element={<Profile />} />    */}
+          <Route path="/Login" element={<Login />} />
+          <Route path="/registrationfail" element={<RegistrationFail />} />
+          <Route path="/registration" element={<Registration />} />
+          <Route path="/registrationsucess" element={<RegistrationSucess />} />
+          <Route path="/waitlist" element={<ListaEspera />} />
         </Routes>
     </BrowserRouter>
     );
