@@ -1,7 +1,7 @@
 import { Container, Row, Col, Button } from "react-bootstrap"
-import './style.css';
+import './styles.css';
 
-function Painel (){
+function CardOpen (){
     return(
         <Container>
             <Row >
@@ -14,4 +14,5 @@ function Painel (){
         </Container>               
     )
 }
-export default Painel
+export default CardOpen;
+

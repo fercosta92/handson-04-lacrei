@@ -1,0 +1,18 @@
+.container-waiting-flex {
+    display: flex;   
+    justify-content: space-around;
+ 
+}
+.container-waiting {
+    height: 100vh;
+    background-image: url('../../assets/images/bkg-left.png');
+    background-repeat: no-repeat;
+    background-position: left bottom;
+}
+
+.img-desk-waiting{
+    width: 500px;
+    height: 350px;
+    margin-top: 230px;
+
+}

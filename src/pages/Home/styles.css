@@ -1,0 +1,15 @@
+.container-home {
+    height: 100vh;
+    background-image: url('../../assets//images/bkg-right.png');
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.img-desk-home{
+    width: 500px;
+    height: 300px;
+    margin-top: 20px;
+    margin-left:100px ;
+} 
+
+
