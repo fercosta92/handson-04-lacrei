@@ -1,5 +1,11 @@
         
 
+              .criar-conta{
+                width: 500px;
+                margin-right: 0 !important;
+               ;
+              }
+            
             .title-register{
               font-size: 32px;
               padding-bottom: 20px;
@@ -7,18 +13,15 @@
               padding-top: 40px;
               color: black;
               text-align: left;
+              width: 300px;
+              padding-bottom: 60px;
             }
 
-            .cor {
+            .color-register {
               color: red;
             }
 
-            .criarConta{
-              width: 500px;
-              margin-right: 0 !important;
-            }
-
-            .formStyle {
+            .form-register {
               width: 498px;
               height: 40px;
               border: 2px solid #CFCFCF;
@@ -27,7 +30,7 @@
               margin: 10px 0px 10px 0px;
             }
 
-            .formStyle1 {
+            .form-register-select {
               width: 498px;
               height: 40px;
               background: white;
@@ -37,7 +40,7 @@
 
             }
 
-            .formStyle2 {
+            .form-register-inp {
               width: 200px;
               height: 40px;
               background: #EEEEEE;
@@ -46,33 +49,32 @@
               margin: 10px 0px 10px 0px;
             }
 
-            .divForm1 {
-              width: 600px;
+            .wrapper-register {
+              width: 500px;
               display: flex;
-              justify-content: space-;
               margin: 10px 0px 10px 0px;
             }
 
-            .divForm2 {
+            .wrapper-register-inp {
               width: 300px;
 
             }
 
-            .termos {
-              width: 600px;
-              padding-right: 120px;
+            .term-register {
+              width: 500px;
               display: flex;
               justify-content: space-between;
               flex-wrap: wrap;
             }
 
-            .termos1 {
+            .term-register-inp {
               border: 1px solid green;
               width: 20px;
             }
 
-            .botao {
-              width: 70px;
+            .btn-register {
+              width: 100px;
+              padding: 10px;
               margin-left: 200px;
               text-align: center;
               border: 1px solid #CFCFCF;
@@ -80,7 +82,7 @@
 
             }
 
-            @media only screen and (max-width: 600px) {
+            /* @media only screen and (max-width: 600px) {
 
               .formStyle1,
               .formStyle,
@@ -103,4 +105,4 @@
               .botao {
                 margin-left: 160px;
               }
-            }
+            } */

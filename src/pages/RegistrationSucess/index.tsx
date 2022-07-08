@@ -9,7 +9,6 @@ function RegistrationSucess() {
         <Container fluid className="container-sucess bkg-img gap-5">
             <Row>
                 <Col sx={6}>
-                    <img src={Desk} className="img-desk-sucess" />
                 </Col>
                 <Col sx={6} className="p-0">
                     <Mensage />

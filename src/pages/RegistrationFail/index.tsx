@@ -12,7 +12,6 @@ function RegistrationFail() {
                     <Alert />
                 </Col>
                 <Col sx={6} className="p-0">
-                    <img src={Desk} className="img-desk-fail" />
                 </Col>
             </Row>
         </Container>

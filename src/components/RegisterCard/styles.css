@@ -13,6 +13,10 @@
     color: #515151;
 }
 
+.btn-card-register{
+    width: 300px;
+}
+
 #Container {
     max-width: 500px;
     height: 300px;

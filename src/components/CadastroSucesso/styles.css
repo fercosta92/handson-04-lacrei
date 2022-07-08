@@ -1,4 +1,4 @@
-.title {
+.title-sucess {
     font-family: 'Roboto';
     font-weight: 700;
     font-size: 24px;
@@ -7,7 +7,7 @@
     color: #2D2D2D;
 }
 
-.text  { 
+.text-sucess { 
     width: 638px;
     height: 116px;   
     text-align: left;
