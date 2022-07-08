@@ -1,7 +1,7 @@
 {
   "name": "handson-04-lacrei",
   "private": true,
-  "homepage": "https://julianaamancio.github.io/Hands-on-04-Lacrei-/dist",
+  "homepage": "https://julianaamancio.github.io/Hands-on-04-Lacrei-/",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
