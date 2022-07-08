@@ -51,7 +51,7 @@ function Cadastro() {
                     <br></br>
                 </div>
                 <br></br>
-                <Link to="/registrationsucess"><button className="btn-register">Criar</button></Link>
+                <Link to="/Hands-on-04-Lacrei-/registrationsucess"><button className="btn-register">Criar</button></Link>
         </div>
                     </div >
     );
