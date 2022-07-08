@@ -1,0 +1,44 @@
+.container {
+    border: 2px solid #C8E0FA;
+    background-color: #EEEEEE;
+}
+
+#carteira {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 400;
+    text-align: center;
+}
+
+#foto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    padding-bottom: 1%;
+}
+
+.btn {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    border: 3px solid #018762;
+    border-radius: 8px;
+    width: 68%;
+    padding-bottom: 3%;
+}
+span {
+    color: red;
+}
+
+input {
+    border: 2px solid #CFCFCF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+}
+
+textarea {
+    border: 2px solid #CFCFCF;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.3);
+    border-radius: 8px;
+}

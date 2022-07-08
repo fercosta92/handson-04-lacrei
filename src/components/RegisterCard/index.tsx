@@ -2,8 +2,7 @@ import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from 'react-bootstrap/Button';
 import { Link } from 'react-router-dom';
-import "./styles.css"
-
+import "./style.css"
 
 
 export default function RegisterCard() {
@@ -18,3 +17,4 @@ export default function RegisterCard() {
         </div>
     )
 }
+
