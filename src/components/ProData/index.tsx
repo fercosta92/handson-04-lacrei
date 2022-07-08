@@ -33,7 +33,7 @@ export default function ProData () {
                 </div>
                 <div className="form-group mb-4 mt-3">
                     <label className="mt-2 mb-2">Carta de Entrada: <span>*</span></label>
-                    <textarea type="text" rows="4" className="form-control" placeholder="Descreva o porquê você gostaria de atuar no 
+                    <textarea rows={4} className="form-control" placeholder="Descreva o porquê você gostaria de atuar no 
 atendimento a comunidade LGBTQIAPN+"></textarea>
                 </div>
             </form>

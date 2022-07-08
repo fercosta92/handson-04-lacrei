@@ -8,14 +8,14 @@ function Cadastro() {
         <div className="criar-conta">
             <div >
                 <h1 className='title-register'>Criar conta</h1>
-                <label for="fname">Nome completo<span className="color-register"> *</span></label><br></br>
+                <label htmlFor="fname">Nome completo<span className="color-register"> *</span></label><br></br>
                 <input type="text" className="form-register" id="fname" name="nome" placeholder=" Digite seu nome"></input>
                 <br></br>
-                <label for="lname">E-mail<span className="color-register"> *</span></label>
+                <label htmlFor="lname">E-mail<span className="color-register"> *</span></label>
                 <br></br>
                 <input type="text" className="form-register" id="lname" name="email" placeholder=" Digite se e-mail"></input>
                 <br></br>
-                <label for="country">Prefixo do conselho profissional<span className="color-register"> *</span></label>
+                <label htmlFor="country">Prefixo do conselho profissional<span className="color-register"> *</span></label>
                 <br></br>
                 <select id="country" className="form-register-select" name="country">
                     <option value="australia">selecione</option>
@@ -29,17 +29,17 @@ function Cadastro() {
                     <option value="usa">Outros</option>
                 </select>
                 <br></br>
-                <label for="fname">Nome do registro<span className="cor"> *</span></label><br></br>
+                <label htmlFor="fname">Nome do registro<span className="cor"> *</span></label><br></br>
                 <input type="text" className="form-register" id="fname" name="nome" placeholder=" Digite seu registro"></input>
                 <br></br>
                 <div className="wrapper-register">
                     <div className="wrapper-register-inp">
-                        <label for="lname">Senha<span className="cor"> *</span></label>
+                        <label htmlFor="lname">Senha<span className="cor"> *</span></label>
                         <br></br>
                         <input type="password" className="form-register-inp" id="pwd" name="pwd" placeholder=" Digite sua senha"></input>
                     </div>
                     <div className="wrapper-register-inp">
-                        <label for="lname">Confirmar a senha<span className="cor"> *</span></label>
+                        <label htmlFor="lname">Confirmar a senha<span className="cor"> *</span></label>
                         <br></br>
                         <input type="password" className="form-register-inp" id="pwd" name="pwd" placeholder=" Digite novamente a senha" ></input>
                         <br></br>

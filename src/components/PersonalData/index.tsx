@@ -18,9 +18,9 @@ export default function PersonalData () {
             </div>
             <div id='descricao' className='col-7'>
                 <label className='mt-5'>Descreva sua foto:</label>
-                <textarea rows="4"></textarea>
+                <textarea rows={4}></textarea>
                 <label className='mt-5'>Sobre mim:</label>
-                <textarea rows="4"></textarea>
+                <textarea rows={4}></textarea>
             </div>
             <col>
             </col>
