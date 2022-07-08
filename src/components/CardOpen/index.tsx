@@ -1,5 +1,5 @@
 import { Container, Row, Col, Button } from "react-bootstrap"
-import './styles.css';
+import './style.css';
 
 function Painel (){
     return(

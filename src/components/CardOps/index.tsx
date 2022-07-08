@@ -1,5 +1,5 @@
 import { Container, Row, Col} from "react-bootstrap"
-import './styles.css';
+import './style.css';
 import Animation from "../../assets/image/animation.png"
 
 function Alert (){
