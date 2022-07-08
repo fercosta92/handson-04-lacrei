@@ -5,7 +5,6 @@ import CardOpen from "../../components/CardOpen";
 import RegisterCard from "../../components/RegisterCard";
 
 
-
 function Home() {
     return (
         <Container fluid className="container-home gap-5">
