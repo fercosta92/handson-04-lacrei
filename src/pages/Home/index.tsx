@@ -1,7 +1,8 @@
+import RegisterCard from "../../components/RegisterCard"
+
 function Home (){
     return(
-        <h1>Hello Word</h1>
-
+        <RegisterCard />
     )
 }
 export default Home

@@ -7,7 +7,7 @@ import fotoDePerfil from '../../assets/perfil_foto.png'
 
 export default function PersonalData () {
     return (
-        <Container className='row'>
+        <Container className='row mb-3'>
             <col>
             </col>
             <div id='foto' className='col-4 mx-auto ml-5'>
@@ -18,9 +18,9 @@ export default function PersonalData () {
             </div>
             <div id='descricao' className='col-7'>
                 <label className='mt-5'>Descreva sua foto:</label>
-                <textarea rows="5"></textarea>
+                <textarea rows="4"></textarea>
                 <label className='mt-5'>Sobre mim:</label>
-                <textarea rows="5"></textarea>
+                <textarea rows="4"></textarea>
             </div>
             <col>
             </col>
