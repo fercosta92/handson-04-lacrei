@@ -10,7 +10,7 @@ import RegistrationSucess from "./pages/RegistrationSucess";
   
 const MyRoutes: React.FC = () => {
  return (
-    <BrowserRouter>
+    // <BrowserRouter>
         <Routes>
           <Route path="/" element={<Home />} />
           {/* <Route path="/profile" element={<Profile />} />    */}
@@ -20,7 +20,7 @@ const MyRoutes: React.FC = () => {
           <Route path="/registrationsucess" element={<RegistrationSucess />} />
           <Route path="/waitlist" element={<ListaEspera />} />
         </Routes>
-    </BrowserRouter>
+    // </BrowserRouter>
     );
   };
   
