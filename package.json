@@ -1,7 +1,7 @@
 {
   "name": "handson-04-lacrei",
   "private": true,
-  "homepage": "https://julianaamancio.github.io/Hands-on-04-Lacrei-/",
+  "homepage": "https://fercosta92.github.io/handson-04-lacrei",
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
